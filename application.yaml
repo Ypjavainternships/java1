@@ -2,14 +2,14 @@ spring:
   profiles: 
     active: dev
 
-# ¿ª·¢»·¾³
+# å¼€å‘ç¯å¢ƒ
 spring: 
   application: 
     name: abcmsc-config-dev
   profiles: dev
 
 
-# ²âÊÔ»·¾³
+# æµ‹è¯•ç¯å¢ƒ
 spring: 
   application: 
     name: abcmsc-config-dev
